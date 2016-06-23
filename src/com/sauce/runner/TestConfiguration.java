@@ -6,9 +6,9 @@ public class TestConfiguration {
 	
 	
 	
-	public final static String USERNAME = "raymondtong";
+	public final static String USERNAME = "QA_Tester";
 	
-	public final static String ACCESS_KEY = "48ad8d8f-955b-4993-ac60-542be73d5a9d";
+	public final static String ACCESS_KEY = "ef4b8220-b102-4238-b346-9db4c9278dd1";
 	
 	public static String onDemandUrl = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 	
