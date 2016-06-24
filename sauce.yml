@@ -1,4 +1,4 @@
 ---
   language: java
   build-automation: maven
-  maven-version: 3.3
+  maven-version: 3.1
